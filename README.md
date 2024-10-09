@@ -1,5 +1,5 @@
 # Retail_Store_Analysis
-SQL Data Analysis Project on Retail sales Data.
+My Aim is to Explore and Analyze Retail Store Sales data and Answer few real world business questions
 
 
 # Project Title**: Retail Sales Data Analysis  
